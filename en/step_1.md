@@ -45,7 +45,7 @@ Select **CREATE**. Once created, click on the project title.
 --- task ---
 
 Select **Train**. This will let you add new training data to your model.
-![](images/train.png)
+![image showing a big blue button reading 'Train'](images/train.png)
 
 --- /task ---
 
