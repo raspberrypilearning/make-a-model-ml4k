@@ -1,16 +1,15 @@
 --- task ---
 
 Open the website [Machine Learning for Kids](https://machinelearningforkids.co.uk/#!/login){:target="_blank"}.
+![](images/ml4kids_URL.png)
 
 --- /task ---
 
 --- task ---
 
-In the screen that appears, choose **Log In** if your mentor gave you some login details. Enter your username and password on the next screen.
+In the screen that appears, choose **Log In**. Enter your username and password on the next screen.
 
 ![A picture of the blue log in button](images/singup_login.png)
-
-Choose **Sign Up** if you are creating your own account and follow the prompts to create a new account.
 
 --- /task ---
 
@@ -51,11 +50,13 @@ Select **Train**. This will let you add new training data to your model.
 --- /task ---
 
 Now that you have created a project, you need to set out the different ways your data will be classified - these will be your **classes**.
+![](images/text_model.png)
 
 --- task ---
 
 Select **Add new label** and create a label for the first class your model will recognise.
 ![](images/add_hotdog.png)
+![](images/add_hero.png)
 
 **Repeat** this step to create labels for the other classes your model will recognise.
 
