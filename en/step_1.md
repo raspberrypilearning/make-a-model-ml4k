@@ -1,59 +1,62 @@
-## Introduction
+--- task ---
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+Open the website [Machine Learning for Kids](https://machinelearningforkids.co.uk/#!/login){:target="_blank"}.
 
-### What you will make
+--- /task ---
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+--- task ---
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+In the screen that appears, choose **Log In** if your mentor gave you some login details. Enter your username and password on the next screen.
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+![A picture of the blue log in button](images/singup_login.png)
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+Choose **Sign Up** if you are creating your own account and follow the prompts to create a new account.
 
-+ A computer or tablet capable of running Scratch 3
+--- /task ---
 
-### Software
+--- task ---
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+Select **Go to your Projects**.
+![Image of the blue go to your projects button on machine learning for kids](images/go2projects.png)
 
-### Downloads
+--- /task ---
 
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
+--- task ---
 
---- /collapse ---
+Select **Add a new project**.
+![Image of a grey button which reads 'Go to your projects'](images/add_new_project.png)
 
---- collapse ---
----
-title: What you will learn
----
+--- /task ---
 
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
+--- task ---
 
---- /collapse ---
+Give the project a name and set it to recognise the type of data you want to work with: `images`, `sounds`, `text` or `numbers`.
+![](images/name_project.png)
 
---- collapse ---
----
-title: Additional information for educators
----
+--- /task ---
 
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
+--- task ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
+Select **CREATE**. Once created, click on the project title.
 
---- /collapse ---
+![](images/create_button.png)
+
+--- /task ---
+
+--- task ---
+
+Select **Train**. This will let you add new training data to your model.
+![](images/train.png)
+
+--- /task ---
+
+Now that you have created a project, you need to set out the different ways your data will be classified - these will be your **classes**.
+
+--- task ---
+
+Select **Add new label** and create a label for the first class your model will recognise.
+![](images/add_hotdog.png)
+
+**Repeat** this step to create labels for the other classes your model will recognise.
+
+--- /task ---
